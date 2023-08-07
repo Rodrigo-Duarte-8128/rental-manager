@@ -1,4 +1,4 @@
-# rental_manager
+# Rental Manager
 A kivy app that manages rentals. This app was inspired by the needs of a small business that rents surfing related materials. The app allows for the management of an inventory and for the creation of rental instances. When a rental is finished, the app displays the total amount the client owes for the items rented. 
 
 Notes:
