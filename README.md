@@ -3,4 +3,4 @@ A kivy app that manages rentals. This app was inspired by the needs of a small b
 
 Notes:
  - The app assumes that items are rented and returned in the same day.
- - The app does not allow for items edits while there are active rentals. This is to prevent unexpected behaviour when modifying the underlying items of an active rental.
+ - The app does not allow for item edits while there are active rentals. This is to prevent unexpected behaviour when modifying the underlying items of an active rental.
